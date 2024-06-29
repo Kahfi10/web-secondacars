@@ -1,0 +1,86 @@
+[
+    {
+        "id": 1,
+        "name":" AVANZA 1.5 G CVT",
+        "price": "90.000.000",
+        "image": "img/avanza.png",
+        "description": "Mobil bermerk Avanza ini di tenagai oleh mesin Bensin 1496 cc dengan konfigurasi 4 silinder segaris, 4 valve, DOHC.Kami menyediakan unit berwarna silver dan bertransmisi otomatis.Dengan kondisi mobil yang sangat terawat, kami menawarkan harga Rp 90.000.000,-.Harga tersebut sudah termasuk pajak dan asuransi kendaraan selama 1 tahun."
+    },
+    {
+        "id": 2,
+        "name":" TOYOTA INNOVA REBORN",
+        "price": "150.000.00",
+        "image": "img/innova.png",
+        "description": "Toyota Innova Reborn adalah generasi terbaru dari Toyota Innova, sebuah mobil MPV (Multi-Purpose Vehicle) yang populer. Mobil ini hadir dengan desain yang lebih modern dan beberapa pembaruan dalam hal fitur dan performa dibandingkan dengan generasi sebelumnya. Desain luar Innova Reborn menampilkan garis yang lebih tajam dan dinamis, dengan gril depan yang lebih besar dan lampu depan yang menyatu dengan gril. Di bagian dalam, Innova Reborn memiliki interior yang lapang dengan kursi yang nyaman dan fitur-fitur modern seperti layar sentuh infotainment, kamera mundur, dan sistem audio yang lebih canggih. Secara keseluruhan, Toyota Innova Reborn dirancang untuk memberikan kenyamanan, performa, dan keamanan yang lebih baik bagi penggunanya."
+    },
+    {
+        "id": 3,
+        "name": "MAZDA 3",
+        "price": "200.000.000",
+        "image": "img/mazda.png",
+        "description": "Mazda 3 Hatchback adalah mobil kompak yang stylish dan sporty, menawarkan desain elegan, performa dinamis, serta fitur teknologi canggih untuk kenyamanan dan keselamatan, dengan spesifikasi seperti mesin 2.0L Skyactiv-G, tenaga 155 PS, torsi 200 Nm, dan transmisi otomatis 6-percepatan."
+    },
+    {
+        "id": 4,
+        "name": "BRIO RS",
+        "price": "115.000.000",
+        "image": "img/brio.png",
+        "description": "Honda Brio adalah mobil hatchback kecil yang ekonomis dan lincah, menawarkan desain modern, efisiensi bahan bakar yang baik, serta fitur kenyamanan dan keselamatan yang memadai, dengan spesifikasi seperti mesin 1.2L i-VTEC, tenaga 90 PS, torsi 110 Nm, dan transmisi manual 5-percepatan atau CVT."
+    },
+    {
+        "id": 5,
+        "name": "DAIHATSU XENIA",
+        "price": "123.000.000",
+        "image": "img/xenia.png",
+        "description": "Pilihan Mesin: DAIHATSU XENIA memiliki 2 pilihan mesin yang menyesuaikan dengan penggunaan pemakainya. Untuk anda yang menggunakan DAIHATSU XENIA untuk keperluan dalam kota, mesin 1.000 cc sangat cocok karena sangat irit dan ramah lingkungan, sedangkan untuk anda yang membutuhkan keperluan luar kota anda membutuhkan mesin berperforma lebih yaitu mesin 1.300 cc yang digunakan juga pada Toyota Avanza."
+    },
+    {
+        "id": 6,
+        "name": "Marcedes G63 AMG",
+        "price": "900.000.000",
+        "image": "img/amg.png",
+        "description": "Mercedes G63 AMG adalah SUV mewah yang tangguh dan bertenaga, menawarkan desain ikonik, performa luar biasa, serta fitur teknologi dan kenyamanan premium, dengan spesifikasi seperti mesin 4.0L V8 biturbo, tenaga 585 PS, torsi 850 Nm, dan transmisi otomatis 9-percepatan."
+    },
+    {
+        "id": 7,
+        "name": "AUDI RS 3 HATCHBACK",
+        "price": "500.000.000",
+        "image": "img/audi.png",
+        "description": "Audi RS3 Hatchback adalah mobil performa tinggi dengan desain sporty, menghadirkan mesin 2.5L inline-5 turbocharged yang menghasilkan tenaga 400 PS, torsi 480 Nm, dan dilengkapi dengan transmisi otomatis 7-percepatan serta sistem quattro all-wheel drive untuk performa dan kelincahan maksimal."
+    },
+    {
+        "id": 8,
+        "name": "PAJERO SPORT",
+        "price": "400.000.000",
+        "image": "img/pajero.png",
+        "description": "Pajero Sport adalah SUV yang kokoh dan tangguh, dirancang untuk menaklukkan berbagai medan, mulai dari jalan raya hingga off-road. Model ini menawarkan kombinasi antara kenyamanan berkendara di dalam kabin yang luas dengan performa yang handal di segala kondisi. Pajero Sport menggunakan mesin dengan tipe 4N15 2.4L MIVEC Turbocharged and Intercooled/EURO II"
+    },
+    {
+        "id": 9,
+        "name": "CIVIC TYPE R",
+        "price": "1.000.000.000",
+        "image": "img/civic.png",
+        "description": "Desain Eksterior Sporty: Desain baru pada bumper bagian depan dan belakang, serta penggunaan ban berukuran 20 inchi yang dilengkapi fitur New Tire Pressure Monitoring System.Interior yang Nyaman dan Canggih: Perubahan pada bagian roda kemudi menggunakan material baru, yaitu New Alcantara Wrapped Steering.Kecepatan Maksimum: Jangan anggap remeh bentuk Type R. Semua fitur yang terdapat di dalamnya membuat mobil ini sangat kencang dan cocok untuk dikendarai di jalanan mau pun sirkuit.Fitur Tambahan: Penampilannya terbilang ekstrim dan memukau. Kecepatan maksimum yang sangat tinggi membuat mobil ini sangat cocok untuk pengguna yang ingin merasakan kesenangan di jalanan.Keamanan Pengendara: Fitur-fitur keselamatan seperti adaptive cruise control, lane keep assist, dan forward collision warning dengan automatic emergency brake, membuat mobil ini sangat nyaman untuk dikendarai di jalan raya sehari-hari.Rem Brembo: Rem satu bagian diganti dengan dua bagian rotor rem dari Brembo, meningkatkan kinerja pengereman kecepatan tinggi dan membantu menghilangkan panas."
+    },
+    {
+        "id": 10,
+        "name": "TOYOTA FORTUNER",
+        "price": "551.000.000",
+        "image": "img/fortuner__1_-removebg-preview.png",
+        "description": "Toyota Fortuner adalah SUV (Sport Utility Vehicle) yang diproduksi oleh Toyota. Kendaraan ini dikenal dengan desain yang tangguh dan performa yang kuat, cocok untuk berbagai medan, baik jalanan perkotaan maupun off-road. Fortuner biasanya dilengkapi dengan mesin diesel atau bensin, pilihan transmisi manual atau otomatis, serta fitur-fitur modern seperti sistem infotainment, kontrol iklim otomatis, dan fitur keselamatan canggih. Interiornya luas dan nyaman, mampu menampung hingga tujuh penumpang, menjadikannya pilihan populer untuk keluarga maupun petualang."
+    },
+    {
+        "id": 11,
+        "name": "TOYOTA ALPHARD",
+        "price": "850.000.000",
+        "image": "img/alphard-removebg-preview.png",
+        "description": "Fitur Toyota Alphard Mesin dan Performa: Mesin 2AR-FE, in-line 4 dengan kapasitas 2.500 cc dan transmisi otomatis CVT yang menghasilkan penggerakan yang halus.Suspensi: MacPherson Strut pada bagian depan dan Double Wishbone pada bagian belakang.Fitur Kenyamanan: Sunshade pada kaca mobil di baris kedua dan ketiga, Power Back Door with Voice Command, Digital Video Recorder, dan seat massage"
+    },
+    {
+        "id": 12,
+        "name": "TOYOTA HIACE",
+        "price": "599.000.000",
+        "image": "img/uyyy-removebg-preview (1).png",
+        "description": "Toyota Hiace adalah van komersial yang andal dengan mesin 2.5L atau 2.8L diesel, transmisi manual 5-percepatan atau otomatis 6-percepatan, dimensi besar (5,915 mm panjang, 1,950 mm lebar, 2,280 mm tinggi, dan wheelbase 3,860 mm), kapasitas 12-16 penumpang, fitur keselamatan seperti airbag depan dan Vehicle Stability Control, serta kenyamanan dengan AC ganda dan kursi ergonomis, dengan harga second sekitar Rp 400 juta hingga Rp 800 juta tergantung kondisi dan tahun produksi."
+    }
+]
